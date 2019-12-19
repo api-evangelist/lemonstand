@@ -1,0 +1,87 @@
+{
+    "name": "LemonStand",
+    "description": "LemonStand is the best eCommerce Software Platform for online retailers who want to grow their online business. Build your customized online store now!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1440-lemonstand.jpg",
+    "tags": [
+        "api provider",
+        "commerce",
+        "have api",
+        "shopping",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lemonstand\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LemonStand",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1440-lemonstand.jpg",
+            "humanURL": "https:\/\/lemonstand.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lemonstand-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/lemonstand.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/lemonstand"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/lemonstand"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lemonstand"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/lemonstand.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "questions@lemonstand.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@lemonstand.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@lemonstand.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/lemonstand"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/lemonstand.com\/pricing"
+        },
+        {
+            "type": "Road Map",
+            "url": "https:\/\/lemonstand.com\/roadmap"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lemonstand"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lemonstand.com\/"
+        }
+    ]
+}
